@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Hulme (samuellh2005) (_formerly ajh123_)</h1>
+<h1 align="center">Hi 👋, I'm Samuel Hulme (samuellh2005) (<i>formerly ajh123</i>)</h1>
 <h3 align="center">A website and Minecraft server software developer</h3>
 
 - 📝 I infrequently write articles on [samsblog.minersonline.uk](https://samsblog.minersonline.uk)
