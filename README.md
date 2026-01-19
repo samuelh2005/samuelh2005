@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Hulme (samuellh2005) (ajh123)</h1>
+<h1 align="center">Hi 👋, I'm Samuel Hulme (samuellh2005) (*formerly ajh123*)</h1>
 <h3 align="center">A website and Minecraft server software developer</h3>
 
 - 📝 I infrequently write articles on [samsblog.minersonline.uk](https://samsblog.minersonline.uk)
@@ -7,15 +7,15 @@
 
 | Name | Description |
 | ---- | ----------- |
-| [CloudinatorMC](https://github.com/ajh123?tab=repositories&q=cloudinator&type=&language=&sort=) | A brand new collection of infrastructure tools to enhance Minecraft server network deployments at large scales |
-| (Legacy) [History Survival](https://github.com/ajh123?tab=repositories&q=history+survival&type=&language=&sort=) | My old game engine expirementations of trying to create a realistic Minecraft like game |
+| [CloudinatorMC](https://github.com/samuelh2005?tab=repositories&q=cloudinator&type=&language=&sort=) | A brand new collection of infrastructure tools to enhance Minecraft server network deployments at large scales |
+| (Legacy) [History Survival](https://github.com/samuelh2005?tab=repositories&q=history+survival&type=&language=&sort=) | My old game engine expirementations of trying to create a realistic Minecraft like game |
 | [Miners Online](https://github.com/miners-online) | My personal Mincraft server where I experiment with server deployment infrastructure |
-| [Minecart](https://github.com/ajh123/Minecart) | My minimal game engine made in C++ used by modern History Survival |
+| [Minecart](https://github.com/samuelh2005/Minecart) | My minimal game engine made in C++ used by modern History Survival |
 | [Samland Government](https://github.com/Samland-Gov) | A political simulation I run on my Minecraft server trying to recreate real-world governments with code |
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/samuel-hulme-423210254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-hulme-423210254" height="30" width="30" /> LinkedIn</a> <a href="https://www.youtube.com/@samuelh2005-mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelh2005-mc" height="30" width="30" /> YouTube</a> <a href="https://discord.gg/aeRReEaNnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord (Miners Online Community)" height="30" width="30" /> Discord (Miners Online Community)</a> <a href="https://modrinth.com/user/ajh123" target="blank"><img align="center" src="https://modrinth.com/favicon-light.ico" alt="@ajh123" height="30" width="30" /> Modrinth</a> 
+<a href="https://linkedin.com/in/samuel-hulme-423210254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-hulme-423210254" height="30" width="30" /> LinkedIn</a> <a href="https://www.youtube.com/@samuelh2005-mc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelh2005-mc" height="30" width="30" /> YouTube</a> <a href="https://discord.gg/aeRReEaNnm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord (Miners Online Community)" height="30" width="30" /> Discord (Miners Online Community)</a> <a href="https://modrinth.com/user/samuelh2005" target="blank"><img align="center" src="https://modrinth.com/favicon-light.ico" alt="@samuelh2005" height="30" width="30" /> Modrinth</a> 
 
 ### Languages and Tools:
 
